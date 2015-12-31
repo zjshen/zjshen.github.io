@@ -1,16 +1,20 @@
+# Gems
+gems: [jekyll-paginate]
+
 # Site settings
-title: Clean Blog
+title: Space 14
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: zjshen14@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+baseurl:
+url: "http://zjshen.github.io"
+twitter_username:
+github_username: zjshen
+facebook_username: zjshen
+linkedin_username: zjshen
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: pretty
 paginate: 5
